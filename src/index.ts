@@ -1,3 +1,3 @@
-const ok = 'eg'
+export const ok = 'ok'
 
 console.log(ok) 
